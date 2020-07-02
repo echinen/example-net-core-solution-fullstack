@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W4Zf9uPBhxSc3iQamvOvZTSQnfEefTEgV6R3WIXbKv0ilVpZy2GukaS3Bbng2p9oI2MjdEPKBIa9qjJ2d+Zy6w==",
+  "dgSpecHash": "c++/8H6MIQJPQxNjkYyLoVaBuEXwAUsNW/EOCb2vHqhdn8MIHNj1kZtLI8sylZ4M0egqZThw1XIm+TsBXEjukA==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Personal\\test-net-core-backend-api\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Projects\\Personal\\example-net-core-solution\\backend-api-v1\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

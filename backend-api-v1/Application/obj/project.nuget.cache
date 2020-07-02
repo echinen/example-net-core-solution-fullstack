@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JWJ6jrS3r0G6akR89S1geNeGBf9pAPZ5ZjvvQXCRXJg2wNd8Q1dq+lh0S79t8NcqHmBBscIYK2rjQLOIgWAF5Q==",
+  "dgSpecHash": "PeZ0SiZRapb0n4V8SM5CLWBr1fVmmeZxkJj8CnZFBBwL/UuX1fJGXKx7V7TjUq/NZQ9UktTXukgDVaB9g8ctRQ==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Personal\\test-net-core-backend-api\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Projects\\Personal\\example-net-core-solution\\backend-api-v1\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\auu921\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\auu921\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

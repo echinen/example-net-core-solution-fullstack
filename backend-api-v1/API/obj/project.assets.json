@@ -1202,11 +1202,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Personal\\test-net-core-backend-api\\API\\API.csproj",
+      "projectUniqueName": "C:\\Projects\\Personal\\example-net-core-solution\\backend-api-v1\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Projects\\Personal\\test-net-core-backend-api\\API\\API.csproj",
+      "projectPath": "C:\\Projects\\Personal\\example-net-core-solution\\backend-api-v1\\API\\API.csproj",
       "packagesPath": "C:\\Users\\auu921\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Personal\\test-net-core-backend-api\\API\\obj\\",
+      "outputPath": "C:\\Projects\\Personal\\example-net-core-solution\\backend-api-v1\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\auu921\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1222,8 +1222,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Projects\\Personal\\test-net-core-backend-api\\Application\\Application.csproj": {
-              "projectPath": "C:\\Projects\\Personal\\test-net-core-backend-api\\Application\\Application.csproj"
+            "C:\\Projects\\Personal\\example-net-core-solution\\backend-api-v1\\Application\\Application.csproj": {
+              "projectPath": "C:\\Projects\\Personal\\example-net-core-solution\\backend-api-v1\\Application\\Application.csproj"
             }
           }
         }

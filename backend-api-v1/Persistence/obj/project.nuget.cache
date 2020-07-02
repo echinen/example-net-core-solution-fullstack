@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9sC6qOKiM1rVJ1BiavV0hcWI4GCIicIDIXY9hReP9p/TYEIGzwPaxhXF7GW6gqH1xbucdo1YFEwQRXfPoMmJYQ==",
+  "dgSpecHash": "t06kTqoW6RfvbgBXd5N79oKzRxqa2ZUIigwecMsHZ8Wf8+pFAT4ensD1sSb4az4mzFppwd463hiYi9eICKmgaw==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Personal\\test-net-core-backend-api\\Persistence\\Persistence.csproj",
+  "projectFilePath": "C:\\Projects\\Personal\\example-net-core-solution\\backend-api-v1\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\auu921\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\auu921\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

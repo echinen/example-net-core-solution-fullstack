@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Personal\\test-net-core-backend-api\\Application\\Application.csproj": {}
+    "C:\\Projects\\Personal\\example-net-core-solution\\backend-api-v1\\Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Personal\\test-net-core-backend-api\\Application\\Application.csproj": {
+    "C:\\Projects\\Personal\\example-net-core-solution\\backend-api-v1\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Personal\\test-net-core-backend-api\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Projects\\Personal\\example-net-core-solution\\backend-api-v1\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Projects\\Personal\\test-net-core-backend-api\\Application\\Application.csproj",
+        "projectPath": "C:\\Projects\\Personal\\example-net-core-solution\\backend-api-v1\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\auu921\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Personal\\test-net-core-backend-api\\Application\\obj\\",
+        "outputPath": "C:\\Projects\\Personal\\example-net-core-solution\\backend-api-v1\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\auu921\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,11 +27,11 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\Projects\\Personal\\test-net-core-backend-api\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Projects\\Personal\\test-net-core-backend-api\\Domain\\Domain.csproj"
+              "C:\\Projects\\Personal\\example-net-core-solution\\backend-api-v1\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Projects\\Personal\\example-net-core-solution\\backend-api-v1\\Domain\\Domain.csproj"
               },
-              "C:\\Projects\\Personal\\test-net-core-backend-api\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Projects\\Personal\\test-net-core-backend-api\\Persistence\\Persistence.csproj"
+              "C:\\Projects\\Personal\\example-net-core-solution\\backend-api-v1\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Projects\\Personal\\example-net-core-solution\\backend-api-v1\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Projects\\Personal\\test-net-core-backend-api\\Domain\\Domain.csproj": {
+    "C:\\Projects\\Personal\\example-net-core-solution\\backend-api-v1\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Personal\\test-net-core-backend-api\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Projects\\Personal\\example-net-core-solution\\backend-api-v1\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Projects\\Personal\\test-net-core-backend-api\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Projects\\Personal\\example-net-core-solution\\backend-api-v1\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\auu921\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Personal\\test-net-core-backend-api\\Domain\\obj\\",
+        "outputPath": "C:\\Projects\\Personal\\example-net-core-solution\\backend-api-v1\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\auu921\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -115,14 +115,14 @@
         }
       }
     },
-    "C:\\Projects\\Personal\\test-net-core-backend-api\\Persistence\\Persistence.csproj": {
+    "C:\\Projects\\Personal\\example-net-core-solution\\backend-api-v1\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Personal\\test-net-core-backend-api\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Projects\\Personal\\example-net-core-solution\\backend-api-v1\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Projects\\Personal\\test-net-core-backend-api\\Persistence\\Persistence.csproj",
+        "projectPath": "C:\\Projects\\Personal\\example-net-core-solution\\backend-api-v1\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\auu921\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Personal\\test-net-core-backend-api\\Persistence\\obj\\",
+        "outputPath": "C:\\Projects\\Personal\\example-net-core-solution\\backend-api-v1\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\auu921\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -138,8 +138,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\Projects\\Personal\\test-net-core-backend-api\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Projects\\Personal\\test-net-core-backend-api\\Domain\\Domain.csproj"
+              "C:\\Projects\\Personal\\example-net-core-solution\\backend-api-v1\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Projects\\Personal\\example-net-core-solution\\backend-api-v1\\Domain\\Domain.csproj"
               }
             }
           }
