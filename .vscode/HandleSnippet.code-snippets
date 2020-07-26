@@ -41,7 +41,7 @@
 		  "",
 		  "            public async Task<Unit> Handle(Command request, CancellationToken cancellationToken)",
 		  "            {",
-		  "                \\\\ Handler logic",
+		  "                // Handler logic",
 		  "                var success = await _context.SaveChangesAsync() > 0;",
 		  "",
 		  "                if(success) return Unit.Value;",
